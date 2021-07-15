@@ -4,7 +4,7 @@
 This repository contains codes developed for many semester-long courses as a part of assignments and short projects at IIT Bombay. 
 
 1. [MA214: Introduction to Numerical Analysis](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/MA214)
-2. [AE240: Spaceflight Mechanics](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE240_Spaceflight_Mechanics)
+2. [AE240: Spaceflight Mechanics](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE240%20Spaceflight%20Mechanics)
 3. [AE234 : Aircraft Propulsion](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE234)
 4. [AE102 : Data Analysis and Interpretation](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE102)
 5. [AE759 : Systems Engineering Principles](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759)
